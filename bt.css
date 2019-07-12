@@ -1,0 +1,52 @@
+.bt{
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+}
+.bk{
+    text-align: center;
+    margin:0 auto;
+    border-bottom: azure;
+    border-width: 5px;
+    border-bottom-style:solid;
+    width: 300px;
+}
+.bk:hover{
+    animation:dh 1s;
+}
+@keyframes dh {
+    40%{
+        width: 500px;
+    }
+    to{
+        width: 300px;
+    }
+}
+@keyframes dh2 {
+    30%{
+        background-color: rgba(224,255,255,0.5);
+        color:#B0C4DE;
+    }
+    to{
+        background-color: rgba(175,238,238,0.5);
+        color: azure;
+    }
+}
+.gn{
+    position: fixed;
+    background-color: rgba(175,238,238,0.5);
+    font-size: 40px;
+    text-align: left;
+    color: azure;
+    border-width: 2px;
+    border-radius: 2px;
+    border-style: solid;
+}
+.gn:hover{
+    animation: dh2 2s;
+}
+.ls{
+    text-align: center;
+    font-size: 60px;
+    color: azure;
+}
