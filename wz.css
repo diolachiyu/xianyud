@@ -1,6 +1,12 @@
+/*文字的样式*/
 .wz{
     text-indent: 32px;
-    color: cadetblue;
+    color:#F5FFFA;
     font-size: 25px;
     line-height: 30px;
+}
+.xx{
+    color:#F5FFFA;
+    text-align: center;
+    font-size: 25px;
 }
