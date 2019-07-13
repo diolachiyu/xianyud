@@ -2,60 +2,6 @@
 body{
     background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#D8BFD8), to(#40E0D0));
 }
-/*设置标题*/
-.bt{
-    text-align: center;
-    font-size: 50px;
-    color: azure;
-}
-/*关于的边框*/
-.bk{
-    text-align: center;
-    margin:0 auto;
-    border-bottom: azure;
-    border-width: 5px;
-    border-bottom-style:solid;
-    width: 300px;
-}
-/*边框的动画*/
-.bk:hover{
-    animation:dh 1s;
-}
-/*边框动画效果*/
-@keyframes dh {
-    40%{
-        width: 500px;
-    }
-    to{
-        width: 300px;
-    }
-}
-/*标题下的横线效果*/
-@keyframes dh2 {
-    30%{
-        background-color: rgba(224,255,255,0.5);
-        color:#B0C4DE;
-    }
-    to{
-        background-color: rgba(175,238,238,0.5);
-        color: azure;
-    }
-}
-/*关于*/
-.gn{
-    position: fixed;
-    background-color: rgba(175,238,238,0.5);
-    font-size: 40px;
-    text-align: left;
-    color: azure;
-    border-width: 2px;
-    border-radius: 2px;
-    border-style: solid;
-}
-/*关于 东西效果*/
-.gn:hover{
-    animation: dh2 2s;
-}
 /*临时公告*/
 .ls{
     text-align: center;
