@@ -1,0 +1,44 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#d8b4d5), to(#a9e0b9));
+}
+input{
+    color: azure;
+    background: rgba(135,206,235,0.3);
+    width: 300px;
+    height: 40px;
+    border:1px #b3d4fc solid;
+}
+input:hover{
+    animation: dh1 0.5s;
+}
+form{
+    text-align: center;
+    margin-top: 30%;
+}
+@keyframes dh1 {
+    40%{
+        width: 320px;
+    }
+    to{
+        width: 300px;
+    }
+}
+button{
+    border: 2px silver solid;
+    font-size:20px;
+    color: lightcyan;
+    background: rgba(224,255,255, 0.2);
+}
+button:hover{
+    animation: dh2 1s;
+}
+@keyframes dh2 {
+    30%{
+        color: coral;
+        border-color: coral;
+    }
+    60%{
+        color: lightcyan;
+        border-color: lightcyan;
+    }
+}
