@@ -1,0 +1,15 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#F5F5DC), to(#40E0D0));
+}
+.wb{
+    text-align: center;
+    font-size: 25px;
+    color: cadetblue;
+    line-height: 32px;
+}
+.zz{
+    text-align: right;
+    color: coral;
+    font-size: 25px;
+    line-height: 32px;
+}
