@@ -22,19 +22,20 @@ form{
         width: 300px;
     }
 }
-button{
+.btt{
     border: 2px lavender solid;
     font-size:20px;
     color: lightcyan;
     background: rgba(224,255,255, 0.2);
 }
-button:hover{
-    animation: dh2 1s;
+.btt:hover{
+    animation: dh3 1s;
 }
-@keyframes dh2 {
+@keyframes dh3 {
     30%{
         color: coral;
         border-color: coral;
+        background: rgba(224,255,255, 0.5);
     }
     60%{
         color: lightcyan;
