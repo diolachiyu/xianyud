@@ -1,0 +1,24 @@
+body{
+    background:-webkit-gradient(linear, 90% 100%,10% 0%,from(#DEB887), to(#D8BFD8));
+}
+.cs{
+    text-align: center;
+}
+.cl{
+    text-decoration: none;
+    font-size: 30px;
+    color: lightcyan;
+}
+.cl:hover{
+    animation: wzjb 0.8s;
+}
+@keyframes wzjb {
+    30%{
+        background: rgba(230,230,250,0.5);
+        color: coral;
+    }
+    60%{
+        background: rgba(255,240,245,0.5);
+        color: lavender;
+    }
+}

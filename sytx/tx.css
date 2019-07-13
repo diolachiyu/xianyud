@@ -28,28 +28,25 @@
 }
 /*标题下的横线效果*/
 @keyframes dh2 {
-    30%{
-        background-color: rgba(224,255,255,0.5);
-        color:#B0C4DE;
-    }
-    to{
-        background-color: rgba(175,238,238,0.5);
-        color: azure;
+    50%{
+        background: rgba(216,191,216,0.6);
+        color:	#FFB6C1;
+        border-color:#FFB6C1;
     }
 }
 /*关于*/
 .gn{
     position: fixed;
     text-decoration:none;
-    background-color: rgba(175,238,238,0.5);
+    background-color: rgba(102,205,170,0.3);
     font-size: 40px;
     text-align: left;
-    color: azure;
+    color:#FAFAD2;
     border-width: 2px;
     border-radius: 2px;
     border-style: solid;
 }
 /*关于 东西效果*/
 .gn:hover{
-    animation: dh2 2s;
+    animation: dh2 0.7s;
 }
