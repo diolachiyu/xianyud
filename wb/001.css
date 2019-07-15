@@ -4,12 +4,21 @@ body{
 .wb{
     text-align: center;
     font-size: 25px;
-    color: cadetblue;
+    color: black;
     line-height: 32px;
+    border: 1px solid #D3D3D3;
+    background: rgba(240,255,255,0.3);
 }
 .zz{
+    text-decoration: whitesmoke;
     text-align: right;
     color: coral;
     font-size: 25px;
     line-height: 32px;
+}
+.wb:hover{
+    border-color: black;
+    background: rgba(255,240,245,0.4);
+    transition-delay: 100ms;
+    transition-duration: 200ms;
 }

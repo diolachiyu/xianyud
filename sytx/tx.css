@@ -22,32 +22,26 @@
         width: 300px;
     }
 }
-/*边框的动画*/
+/*标题下的横线效果*/
 .bk:hover{
     animation:dh 1s;
-}
-/*标题下的横线效果*/
-@keyframes dh2 {
-    30%{
-        border-color:#FFFF00;
-    }
-    60%{
-        border-color: coral;
-    }
 }
 /*关于*/
 .gn{
     position: fixed;
     text-decoration:none;
-    background-color: rgba(102,205,170,0.3);
+    background-color: rgba(175,238,238,0.3);
     font-size: 40px;
     text-align: left;
-    color:#FAFAD2;
+    color: #4682B4;
     border-width: 2px;
     border-radius: 2px;
     border-style: solid;
 }
 /*关于 东西效果*/
 .gn:hover{
-    animation: dh2 1s;
+    border-color: #98FB98;
+    color:	#ADD8E6;
+    transition-delay: 100ms;
+    transition-duration: 500ms;
 }
