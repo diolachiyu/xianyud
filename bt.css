@@ -38,3 +38,20 @@ body{
         background: rgba(224,255,255, 0.2);
     }
 }
+.bmfk{
+    color:#6495ED;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    border-color: #BBFFFF;
+    border-width: 3px;
+    background: rgba(245,245,245,0.2);
+}
+.bmfk:hover{
+    color:#4682B4;
+    border-color: #6495ED;
+    background: rgba(240,255,240,0.4);
+    transition-delay: 50ms;
+    transition-duration: 300ms;
+}

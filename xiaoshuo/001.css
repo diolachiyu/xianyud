@@ -1,0 +1,40 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#ADD8E6), to(#40E0D0));
+}
+.zt{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.zt:hover{
+    color: black;
+    transition-delay: 100ms;
+    transition-duration: 500ms;
+}
+.xxb{
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    width: 300px;
+    border-color:#1E90FF;
+    color: 	#8470FF;
+    background: rgba(175,238,238,0.3);
+}
+.xxb:hover{
+    border-color: coral;
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+    background: rgba(175,238,238,0.1);
+}
+.lj{
+    color: 	#AB82FF;
+}
+.lj:hover{
+    color:#FF4040;
+    transition-delay: 10ms;
+    transition-duration: 100ms;
+ }
+.zs{
+    font-size: 15px;
+    color: white;
+}
