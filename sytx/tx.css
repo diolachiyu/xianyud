@@ -45,3 +45,6 @@
     transition-delay: 100ms;
     transition-duration: 500ms;
 }
+.gg{
+    position: fixed;
+}
