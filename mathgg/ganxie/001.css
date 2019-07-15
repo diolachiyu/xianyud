@@ -1,0 +1,14 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#6A5ACD), to(#CD5555));
+}
+.wz{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.wz:hover{
+    color: black;
+    font-size: 35px;
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}

@@ -1,0 +1,27 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#AFEEEE), to( 	#6495ED));
+}
+.ggk{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    border-color: white;
+    background: rgba(173,216,230,0.2);
+}
+.ggk:hover{
+    color: salmon;
+    border-color: black;
+    background: rgba(173,216,230,0.5);
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}
+.yuyu{
+    font-size: 20px;
+    color: black;
+}
+.yuyu:hover{
+    color: white;
+    transition-delay: 10ms;
+    transition-duration: 100ms;
+}

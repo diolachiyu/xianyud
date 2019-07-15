@@ -1,0 +1,18 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#EEEED1), to(#FFC0CB));
+}
+.wzz{
+    /*text-decoration: none;*/
+    font-size: 30px;
+    color:#DDA0DD;
+    text-align: center;
+}
+.wzz:hover{
+    color:#9370DB;
+    background: rgba(245,255,250,0.5);
+    transition-delay: 10ms;
+    transition-duration: 100ms;
+}
+.fx{
+    text-align: center;
+}

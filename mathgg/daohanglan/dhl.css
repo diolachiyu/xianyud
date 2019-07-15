@@ -1,0 +1,41 @@
+.dhlwz{
+    text-align: left;
+    position: fixed;
+}
+.da{
+    list-style: none;
+}
+.xm li{
+    list-style: none;
+    display: none;
+}
+.xiang{
+    font-size: 30px;
+    color:#FF6A6A;
+}
+.xiang:hover{
+    color: 	#7FFFD4;
+    background:#87CEEB;
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}
+.xiang:hover li{
+    display: block;
+}
+li{
+    color: salmon;
+}
+li:hover{
+    color: white;
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}
+.ann{
+    text-decoration: none;
+    color: salmon;
+}
+.ann:hover{
+    color: white;
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}
