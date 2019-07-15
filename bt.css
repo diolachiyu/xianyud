@@ -20,7 +20,7 @@ body{
 .ls{
      text-decoration: none;
      font-size: 30px;
-     color:#FFFAFA;
+     color:white;
 }
 .ls:hover{
     animation: dh4 1s;
@@ -54,4 +54,7 @@ body{
     background: rgba(240,255,240,0.3);
     transition-delay: 50ms;
     transition-duration: 300ms;
+}
+.bmfk:hover .ls{
+    color: cornflowerblue;
 }
