@@ -10,15 +10,10 @@ body{
     color: lightcyan;
 }
 .cl:hover{
-    animation: wzjb 0.8s;
-}
-@keyframes wzjb {
-    30%{
-        background: rgba(230,230,250,0.5);
-        color: coral;
-    }
-    60%{
-        background: rgba(255,240,245,0.5);
-        color: lavender;
-    }
+    border: 1px solid #F0FFF0;
+    background: rgba(255,255,240,0.5);
+    color: 	#8470FF;
+    transition-delay: 50ms;
+    transition-duration: 300ms;
+    transition-property: border;
 }
