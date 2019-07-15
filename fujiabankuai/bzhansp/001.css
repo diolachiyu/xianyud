@@ -1,0 +1,11 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#696969), to(#8B8B7A));
+}
+.sp{
+    text-align: center;
+}
+.wzdf{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
