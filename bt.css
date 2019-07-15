@@ -20,7 +20,7 @@ body{
 .ls{
      text-decoration: none;
      font-size: 30px;
-     color:#FFFF00;
+     color:#FFFAFA;
 }
 .ls:hover{
     animation: dh4 1s;
