@@ -9,16 +9,33 @@ body{
     border: 1px solid #D3D3D3;
     background: rgba(240,255,255,0.3);
 }
-.zz{
-    text-decoration: whitesmoke;
-    text-align: right;
-    color: coral;
-    font-size: 25px;
-    line-height: 32px;
-}
 .wb:hover{
     border-color: black;
     background: rgba(255,240,245,0.4);
     transition-delay: 100ms;
     transition-duration: 200ms;
+}
+.zzb{
+    color: #222222;
+    font-size: 15px;
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+    background:rgba(240,255,255,0.1) ;
+    border-color: #b3d4fc;
+}
+.zzb:hover{
+    border-color:#6A5ACD;
+    background:rgba(255,240,245,0.3) ;
+    transition-delay: 100ms;
+    transition-duration: 200ms;
+}
+.xx{
+    color: coral;
+}
+.xx:hover{
+    color: #191970;
+    background: rgba(173,216,230,0.3);
+    transition-delay: 50ms;
+    transition-duration: 100ms;
 }
