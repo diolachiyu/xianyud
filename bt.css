@@ -57,4 +57,5 @@ body{
 }
 .bmfk:hover .ls{
     color: cornflowerblue;
+    transition-duration: 200ms;
 }
