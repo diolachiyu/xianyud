@@ -14,7 +14,7 @@
     color:#FF6A6A;
 }
 .xiang:hover{
-    color: 	#7FFFD4;
+    color:whitesmoke;
     background:#87CEEB;
     transition-delay: 50ms;
     transition-duration: 200ms;
@@ -55,12 +55,12 @@ li:hover{
 .xiang2:hover li{
     display: block;
 }
-.ann2{
-    text-decoration: none;
-    color:#6495ED;
-}
-.ann2:hover{
-    color:#E066FF;
-    background: rgba(240,255,240,0.3);
-    transition-duration: 200ms;
-}
+/*.ann2{*/
+/*    text-decoration: none;*/
+/*    color:#6495ED;*/
+/*}*/
+/*.ann2:hover{*/
+/*    color:#E066FF;*/
+/*    background: rgba(240,255,240,0.3);*/
+/*    transition-duration: 200ms;*/
+/*}*/
