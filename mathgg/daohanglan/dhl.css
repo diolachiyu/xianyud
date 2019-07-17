@@ -14,8 +14,8 @@
     color:#FF6A6A;
 }
 .xiang:hover{
-    color:whitesmoke;
-    background:#87CEEB;
+    color:#FF0000;
+    background:#E0FFFF;
     transition-delay: 50ms;
     transition-duration: 200ms;
 }
@@ -23,18 +23,19 @@
     display: block;
 }
 li{
-    color: salmon;
+    color:#63B8FF;
 }
 li:hover{
-    color: white;
+    color:#0000CD;
+    transition-delay: 50ms;
     transition-duration: 200ms;
 }
 .ann{
     text-decoration: none;
-    color: salmon;
+    color:#63B8FF;
 }
 .ann:hover{
-    color: white;
+    color:#0000CD;
     transition-delay: 50ms;
     transition-duration: 200ms;
 }
