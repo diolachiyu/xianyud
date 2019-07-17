@@ -32,16 +32,16 @@ body{
     text-align: center;
     margin: 0 auto;
     width: 300px;
-    border-color: #BBFFFF;
+    border-color: #63B8FF;
     border-width: 3px;
     background: rgba(245,245,245,0.2);
 }
 .bmfk:hover{
     color:#4682B4;
-    border-color: #6495ED;
+    border-color:#9F79EE;
     background: rgba(240,255,240,0.3);
     transition-delay: 50ms;
-    transition-duration: 300ms;
+    transition-duration: 200ms;
 }
 .bmfk:hover .ls{
     color: cornflowerblue;
