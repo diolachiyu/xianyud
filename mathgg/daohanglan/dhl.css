@@ -39,3 +39,20 @@ li:hover{
     transition-delay: 50ms;
     transition-duration: 200ms;
 }
+/*常用网站列表*/
+.xm2 li{
+    list-style: none;
+    display: none;
+}
+.xiang2{
+    color:#FFFAFA;
+    font-size: 30px;
+}
+.xiang2:hover{
+    color:#4682B4;
+    transition-delay: 50ms;
+    transition-duration: 300ms;
+}
+.xiang2:hover li{
+    display: block;
+}
