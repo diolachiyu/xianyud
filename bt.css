@@ -23,20 +23,8 @@ body{
      color:white;
 }
 .ls:hover{
-    animation: dh4 1s;
-}
-@keyframes dh4 {
-    30%{
-        color:#FF8247;
-    }
-    50%{
-        background: rgba(245,255,250,0.5);
-
-    }
-    70%{
-        color: lightcyan;
-        background: rgba(224,255,255, 0.2);
-    }
+    background: rgba(245,255,250,0.5);
+    transition-duration: 100ms;
 }
 .bmfk{
     color:#6495ED;
