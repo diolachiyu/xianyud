@@ -11,11 +11,11 @@
 }
 .xiang{
     font-size: 30px;
-    color:#FF6A6A;
+    color:#774181;
 }
 .xiang:hover{
-    color:#FF0000;
-    background:#E0FFFF;
+    color:#bf81ff;
+    background:#dae1e7;
     transition-delay: 50ms;
     transition-duration: 200ms;
 }
@@ -23,21 +23,21 @@
     display: block;
 }
 li{
-    color:#63B8FF;
+    color:#69779b;
 }
 li:hover{
-    color:#0000CD;
+    color:#3b2c85;
     transition-delay: 50ms;
-    transition-duration: 200ms;
+    transition-duration: 100ms;
 }
 .ann{
     text-decoration: none;
-    color:#63B8FF;
+    color:#69779b;
 }
 .ann:hover{
-    color:#0000CD;
+    color:#3b2c85;
     transition-delay: 50ms;
-    transition-duration: 200ms;
+    transition-duration: 100ms;
 }
 /*常用网站列表*/
 .xm2 li{
@@ -56,12 +56,3 @@ li:hover{
 .xiang2:hover li{
     display: block;
 }
-/*.ann2{*/
-/*    text-decoration: none;*/
-/*    color:#6495ED;*/
-/*}*/
-/*.ann2:hover{*/
-/*    color:#E066FF;*/
-/*    background: rgba(240,255,240,0.3);*/
-/*    transition-duration: 200ms;*/
-/*}*/
