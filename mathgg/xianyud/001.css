@@ -1,3 +1,16 @@
 body{
     background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#dadddf), to(#c6cbef));
 }
+.wz{
+    text-align: center;
+    font-size: 25px;
+    color: #204969;
+}
+.wz:hover{
+    color: #cba1d2;
+    transition-duration: 200ms;
+}
+.bjy{
+    text-align: center;
+    margin: 0 auto;
+}
