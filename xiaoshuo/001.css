@@ -1,16 +1,16 @@
 body{
-    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#ADD8E6), to(#40E0D0));
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#b2d3be), to(#89a3b2));
 }
 .zt{
     text-align: center;
     font-size: 30px;
     color: white;
 }
-.zt:hover{
-    color: black;
-    transition-delay: 100ms;
-    transition-duration: 500ms;
-}
+/*.zt:hover{*/
+/*    color: black;*/
+/*    transition-delay: 100ms;*/
+/*    transition-duration: 500ms;*/
+/*}*/
 .xxb{
     font-size: 20px;
     text-align: center;

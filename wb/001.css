@@ -1,5 +1,5 @@
 body{
-    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#F5F5DC), to(#40E0D0));
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#8f758e), to(#dedede));
 }
 .wb{
     text-align: center;
@@ -31,7 +31,7 @@ body{
     transition-duration: 100ms;
 }
 .xx{
-    color: coral;
+    color:white;
 }
 .xx:hover{
     color: #191970;
