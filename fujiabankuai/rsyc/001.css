@@ -1,0 +1,40 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#caf2d7), to(#d3f6f3));
+}
+.lj{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: #ca5fa6;
+}
+.lj:hover{
+    font-size: 32px;
+    color: #fac0e1;
+    transition-delay: 50ms;
+    transition-duration: 100ms;
+}
+.wz{
+    font-size: 20px;
+    text-align: center;
+    color:#63707e ;
+}
+.wz:hover{
+    color:#212121;
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}
+.jj{
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+    color:#93b5b3;
+    border-color:#c8dad3;
+    background: rgba(242,246,245,0.3);
+}
+.jj:hover{
+    color:#52437b ;
+    border-color: #63707e;
+    background: rgba(242,246,245,0.5);
+    transition-delay: 50ms;
+    transition-duration: 200ms;
+}
