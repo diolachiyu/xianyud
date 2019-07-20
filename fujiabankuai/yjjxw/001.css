@@ -12,8 +12,17 @@ body{
 .wz:hover{
     color: #444444;
 }
-.bt{
+.bkk{
     text-align: center;
+    margin: 0 auto;
+    width: 300px;
     font-size: 30px;
     color: #eaeaea;
+    border-color:#eaeaea ;
+}
+.bkk:hover{
+    color: #204969;
+    border-color: #2d3561;
+    background: rgba(255,255,255,0.1);
+    transition-duration: 200ms;
 }
