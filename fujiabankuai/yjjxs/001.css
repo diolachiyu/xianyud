@@ -1,0 +1,8 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#c36a2d), to(#e2c275));
+}
+.wz{
+    text-align: center;
+    color:#313848;
+    font-size: 30px;
+}

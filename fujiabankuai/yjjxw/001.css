@@ -1,0 +1,19 @@
+body{
+    background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#5588a3), to(#e8e8e8));
+}
+.wzwz{
+    text-align: center;
+}
+.wz{
+    text-decoration: none;
+    font-size: 25px;
+    color: #eaf5ff;
+}
+.wz:hover{
+    color: #444444;
+}
+.bt{
+    text-align: center;
+    font-size: 30px;
+    color: #eaeaea;
+}
