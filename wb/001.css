@@ -1,20 +1,6 @@
 body{
     background:-webkit-gradient(linear, 50% 50%,10% 0%,from(#8f758e), to(#dedede));
 }
-.wb{
-    text-align: center;
-    font-size: 25px;
-    color: black;
-    line-height: 32px;
-    border: 1px solid #D3D3D3;
-    background: rgba(240,255,255,0.3);
-}
-.wb:hover{
-    border-color: black;
-    background: rgba(255,240,245,0.4);
-    transition-delay: 100ms;
-    transition-duration: 200ms;
-}
 .zzb{
     color: #222222;
     font-size: 15px;
@@ -30,12 +16,15 @@ body{
     transition-delay: 50ms;
     transition-duration: 100ms;
 }
-.xx{
-    color:white;
+.kk{
+    color:#eaeaea ;
+    border-color:#daf1f9 ;
+    font-size: 25px;
+    background: rgba(245,255,250,0.1);
 }
-.xx:hover{
-    color: #191970;
-    background: rgba(173,216,230,0.3);
-    transition-delay: 50ms;
-    transition-duration: 100ms;
+.kk:hover{
+    background: rgba(245,255,250,0.3);
+    color: #444444;
+    border-color: #a4d7e1;
+    transition-duration: 200ms;
 }
